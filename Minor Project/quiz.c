@@ -64,7 +64,7 @@ void main()
 
     //displaying score
     printf("\n-----------------------------------------------------------------\n");
-    printf("Thank you for playing %s.\nHere are your results :\nScore : %d /5",name,score);
+    printf("Thank you for playing %s.\nHere are your results :\nScore : %d /5\n",name,score);
 }
 
 //defining bio() function

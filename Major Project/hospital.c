@@ -44,7 +44,6 @@ struct patient p5 = {000,"",00,'\0',00.00};
 //main function
 void main()
 {
-    clrscr();
     userChoice = 'V';   //default initialization
     do{
         viewMenu();
